@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "NothingFont5x7";
+  font-display: swap;
+  src: url("/fonts/nothing-font-5x7.otf");
+}
+
+@font-face {
+  font-family: 'RobotoMono-ExtraLight';
+  font-display: swap;
+  src: url("/fonts/RobotoMono-ExtraLight.ttf");
+}
+
+.font-nfont5x7 {
+  font-family: 'NothingFont5x7';
+}
+
+.font-mono {
+  font-family: "RobotoMono-ExtraLight";
+  font-weight: 400;
+}
